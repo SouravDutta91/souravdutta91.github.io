@@ -49,3 +49,5 @@ Sep 2014 - Apr 2015
 
 * Selected as part of the TCS Retail Innovation Labs in Chennai to work on innovation projects in the retail sector, like drones in retail stores, automation of retail store processes and others.
 * Part of the team developing transportation solutions in Java for a US-retail giant.
+
+[< Main Page](./)
