@@ -33,3 +33,5 @@ _Grammar for Trees and Graphs seminar, WS 2018-2019, Saarland University, German
 __Links:__ [report](https://drive.google.com/file/d/1fxYPLmBNnDKT_8SMNWoWVm2vlnncyRbH/view)  
 __Advisor:__ [Dr. Meaghan Fowlie](https://meaghanfowlie.com/), [Jonas Groswchitz](http://www.coli.uni-saarland.de/~jonasg/)  
 __Short Abstract:__ Analyzing if a neural sequential model trained on a treebank corpus is good enough to generate syntax parse trees for input sentences.  
+
+[< Main Page](./)
