@@ -14,7 +14,7 @@ _Computational Linguistics project, WS 2018-2019, Saarland University, Germany_
 
 __Links:__ [Github](https://github.com/SouravDutta91/synonym-antonym-analogy)  
 __Advisor:__ [Prof. Alexander Koller](http://www.coli.uni-saarland.de/~koller/)  
-__Short Abstract:__ Analyzing if we can find new words referring similar word embedding pairs (GloVe) by Analogy relationships.  
+__Short Abstract:__ Analyzing if we can find new words referring to similar word embedding pairs (GloVe) by Analogy relationships.  
 
 ---
 
